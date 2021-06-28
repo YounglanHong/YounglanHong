@@ -1,12 +1,12 @@
 <div align="center">
 
-### Hi there 👋
+## Hi there 👋
   
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://hylog.vercel.app/)](https://hylog.vercel.app/)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:younglanhong0212@gmail.com)](mailto:younglanhong0212@gmail.com)
   
   
-  #### ⚒ Tech Stack ⚒
+  ### ⚒ Tech Stack ⚒
   
   [![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   [![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
