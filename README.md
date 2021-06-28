@@ -5,6 +5,7 @@
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://hylog.vercel.app/)](https://hylog.vercel.app/)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:younglanhong0212@gmail.com)](mailto:younglanhong0212@gmail.com)
   
+  <br />
   
   ### ⚒ Tech Stack ⚒
   
@@ -23,6 +24,8 @@
   [![AWS Badge](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 <!--   [![Heroku Badge](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) -->
 <!--   [![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) -->
+  
+  <br />
   
   [![YounglanHong's GitHub stats](https://github-readme-stats.vercel.app/api?username=YounglanHong&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 
